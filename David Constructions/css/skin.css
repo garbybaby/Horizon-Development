@@ -1,0 +1,32 @@
+body.red .slide:hover, body.red .slide:focus {
+	box-shadow: inset 15.5em 0 0 0 #e54e53;
+}
+body.green .slide:hover, body.green .slide:focus {
+	box-shadow: inset 15.5em 0 0 0 #1abc9c;
+}body.lightgreen .slide:hover, body.lightgreen .slide:focus {
+	box-shadow: inset 12.5em 0 0 0 #b4de50;
+}body.orange .slide:hover, body.orange .slide:focus {
+	box-shadow: inset 15.5em 0 0 0 #ff8a00;
+}body.blue .slide:hover, body.blue .slide:focus {
+	box-shadow: inset 15.5em 0 0 0 #159eee;
+}body.cyan .slide:hover, body.cyan .slide:focus {
+	box-shadow: inset 15.5em 0 0 0 #1abac8;
+}body.cyan #myCarousel .carousel-indicators .active {
+	background-color: #1abac8;
+	border-color: #1abac8;
+}body.blue #myCarousel .carousel-indicators .active {
+	background-color: #159eee;
+	border-color: #159eee;
+}body.orange #myCarousel .carousel-indicators .active {
+	background-color: #ff8a00;
+	border-color: #ff8a00;
+}body.red #myCarousel .carousel-indicators .active {
+	background-color: #e54e53;
+	border-color: #e54e53;
+}body.green #myCarousel .carousel-indicators .active {
+	background-color: #1abc9c;
+	border-color: #1abc9c;
+}body.lightgreen #myCarousel .carousel-indicators .active {
+	background-color: #b4de50;
+	border-color: #b4de50;
+}

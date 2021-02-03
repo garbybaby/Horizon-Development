@@ -1,0 +1,36 @@
+body #contact .map-content {
+	margin-top: 5px;
+}
+body #contact .gmap {
+	
+	height: 300px;
+	width: 100%;
+	
+	overflow: hidden;
+	position: relative;
+	margin: 0 auto;
+}
+body #contact .gmap-area .gmap iframe {
+	
+	padding-left: 50px;
+    padding-right: 50px;
+	height: 300px;
+	width: 100%;
+}
+body #contact .gmap-area .map-content address h5 {
+	font-weight: 700;
+}
+body #contact .center {
+	text-align: center;
+	padding-bottom: 5px;
+}
+body #contact .center h2 {
+	font-size: 36px;
+	margin-top: 0;
+	margin-bottom: 5px;
+}
+@media screen and (max-width: 1024px) {
+body #contact .map-content {
+	text-align: center;
+}
+}
